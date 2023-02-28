@@ -1,6 +1,6 @@
 {
     "name": "kiyo-kawa",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "private": false,
     "main": "./ptMain.min.js",
     "license": "MIT",
